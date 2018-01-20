@@ -67,3 +67,9 @@ decrypt_mid_keys 1877176040 1910250746 1239375751 # A K M
 charBlockSize 124
 charListPacket 0x82d
 maploginPacket 089F
+[bRO_2016-11-08a]
+decrypt_mid 1
+decrypt_mid_keys 0x17AC78C2 0x1ADE5C66 0x2A84793C
+charBlockSize 124
+charListPacket 0x82d
+maploginPacket 088E
